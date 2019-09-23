@@ -1,6 +1,6 @@
 {
   "name": "@intelligo-group/eslint-config",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "scripts": {
     "pretest": "eslint --fix ./**/*.js ./*.js"
   },
@@ -18,8 +18,8 @@
   },
   "dependencies": {},
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/intelligogroup/eslint-config.git"
+    "type": "git",
+    "url": "https://github.com/intelligogroup/eslint-config.git"
   },
   "description": ""
 }
