@@ -34,7 +34,7 @@ module.exports = {
             "single"
         ],
         "node/no-extraneous-require": ["error", {
-            "allowModules": ['database', 'scheduler', 'nlp']
+            "allowModules": ['database', 'infra', 'scheduler', 'nlp']
         }],
         "no-unused-vars": "warn",
         "no-useless-escape": "warn",
