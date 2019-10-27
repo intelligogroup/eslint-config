@@ -1,22 +1,13 @@
 {
-  "name": "@intelligo-group/eslint-config",
-  "version": "1.0.7",
-  "scripts": {
-    "pretest": "eslint --fix ./**/*.js ./*.js"
-  },
+  "name": "@intelligo.ai/eslint-config",
+  "version": "205.0.0",
   "author": "",
   "license": "ISC",
-  "peerDependencies": {
-    "eslint": ">= 6.4.0",
-    "eslint-plugin-node": ">= 8.0.1",
-    "husky": ">= 3.0.5"
-  },
-  "devDependencies": {
+  "dependencies": {
     "eslint": "^6.4.0",
     "eslint-plugin-node": "^8.0.1",
     "husky": "^3.0.5"
   },
-  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/intelligogroup/eslint-config.git"
