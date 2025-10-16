@@ -1,5 +1,5 @@
 {
-  "name": "@intelligo.ai/eslint-config",
+  "name": "@intelligogroup/eslint-config",
   "version": "205.0.0",
   "author": "",
   "license": "ISC",
@@ -11,6 +11,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/intelligogroup/eslint-config.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "description": ""
 }
