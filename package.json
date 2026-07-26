@@ -4,9 +4,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "eslint": "^6.4.0",
+    "eslint": "^10.8.0",
     "eslint-plugin-node": "^8.0.1",
-    "husky": "^3.0.5"
+    "husky": "^9.1.7"
   },
   "repository": {
     "type": "git",
